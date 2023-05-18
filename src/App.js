@@ -6,12 +6,11 @@ import Nav from './components/Nav';
 
 function App() {
   return (
-    <>
-      <Header />
-      <Nav />
-      <Main />
-      <Footer />
-    </>
+    <div class="container">
+      <Header class="header" />
+      <Main class="main" />
+      <Footer class="footer" />
+    </div>
   );
 }
 

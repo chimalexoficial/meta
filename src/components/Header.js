@@ -1,6 +1,10 @@
+import '../App.css'
+import Nav from './Nav';
 
 function Header() {
-    return <header></header>
+    return <header>
+        <Nav />
+    </header>
 }
 
 export default Header;

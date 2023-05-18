@@ -5,7 +5,6 @@ import { BookingPage } from './BookingPage';
 import { CallToAction } from './CallToAction';
 import { Chicago } from './Chicago';
 import { CustomerSay } from './CustomerSay';
-import Footer from './Footer';
 import { Specials } from './Specials';
 
 function Main() {
